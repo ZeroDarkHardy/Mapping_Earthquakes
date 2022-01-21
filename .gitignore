@@ -1,5 +1,6 @@
 config.js
-
+Mapping_GeoJSON_Points/
+Mapping_Lines/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
