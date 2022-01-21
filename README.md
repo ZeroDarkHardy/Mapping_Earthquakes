@@ -11,4 +11,4 @@ This project involves gathering earthquake data from GeoJSON files, obtained thr
 
 ## Results
 
-View the deployed webpage here: [zerodarkhardy.github.io/Mapping_Earthquakes](https://zerodarkhardy.github.io/Mapping_Earthquakes/)
+View the deployed webpage here: [ZeroDarkHardy.github.io/Mapping_Earthquakes](https://zerodarkhardy.github.io/Mapping_Earthquakes/)
